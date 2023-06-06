@@ -1,2 +1,5 @@
-Hello, this is a test file.
-This is the second line of the file.
+This is a new first line
+This line is being appended to test.txt
+And another line here.
+This line is being appended to test.txt
+And another line here.
